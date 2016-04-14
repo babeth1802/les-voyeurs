@@ -1,0 +1,167 @@
+body{
+
+	background-color: #FFFBFD;
+
+}
+
+.Container {
+	padding-top: 30px;
+	width: 100%;
+    text-align: center;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+
+}
+
+.menu {
+	text-decoration: none;
+	padding-top: 10px;
+	color: #0E0E0E;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.menu-link {
+	color: #0E0E0E;
+	font-family: "Open Sans", sans-serif;
+	display: inline;
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+
+.menu-name {
+	color: #0E0E0E;
+	text-decoration: none;	
+}
+.menu li:hover a {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 25px;
+
+	color: #0E0E0E ;
+	
+}
+
+.logo {
+	height: 75px;
+	display: inline-block;
+}
+
+.hr1 {
+	margin-left: 40%;
+	margin-right: 40%;
+}
+
+.hr2 {
+	margin-left: 41%;
+	margin-right: 41%;
+}
+
+
+.home-image{
+margin-top: 5%;
+margin-bottom: 50px;
+}
+
+
+.L {
+	height: 200px;
+	margin-left: 85px;
+}
+
+.container_bestsellers {
+	display: inline-table;
+}
+
+.titre-produit {
+	font-size: 25px;
+	font-family: "Open sans", sans-serif, bold;
+	text-decoration: none;
+	color: #0E0E0E ;
+	text-align: center;
+}
+
+.texte-produit {
+	text-align: center;
+}
+
+.nous-connaitre {
+	margin-top: 70px;
+}
+
+.notre-histoire {
+	float: right;
+	width: 60%;
+	margin-left: 30px;
+}
+
+.texte-nous {
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.commander {
+	margin-top: 100px;
+	border: 1px solid black;
+	text-align: center;
+	margin-bottom: 20px;
+	padding: 20px;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+
+.input {
+	width: 200px;
+	height: 70px;
+}
+
+.footer {
+	background-color: #D9D1D1;
+	padding: 30px;
+}
+
+.menufooter {
+		text-align: center;
+		display: inline-block;
+		margin-bottom: 40px;
+}
+
+.menu-name-footer {
+	color: #0E0E0E;
+	text-decoration: none;
+	margin-right: 20px;
+	text-align: center;
+}
+
+.menu-link-footer {
+	color: #0E0E0E;
+	display: inline-block;
+	padding: 10px;
+	text-transform: uppercase;
+}
+
+.menu-name-footer-voyeurs {
+margin-right: 20px;
+}
+
+.reseaux-sociaux {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.footer-space {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.imageproduit2 {
+	margin-top: 10%;
+	margin-bottom: 10%;
+
+}
+
